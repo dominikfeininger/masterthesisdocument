@@ -1,0 +1,12 @@
+This is C:\Apps\eclipse3.6tex\miktex\miktex\bin\makeindex.exe, version 2.15 [MiKTeX 2.9] (kpathsea + Thai support).
+Scanning style file C:/Apps/eclipse3.6tex/miktex/makeindex/nomencl/nomencl.ist.......
+** Input style error (file = C:/Apps/eclipse3.6tex/miktex/makeindex/nomencl/nomencl.ist, line = 70):
+   -- Unknown specifier lethead_prefix.
+** Input style error (file = C:/Apps/eclipse3.6tex/miktex/makeindex/nomencl/nomencl.ist, line = 71):
+   -- Unknown specifier lethead_suffix.
+** Input style error (file = C:/Apps/eclipse3.6tex/miktex/makeindex/nomencl/nomencl.ist, line = 72):
+   -- Unknown specifier lethead_flag.
+...done (10 attributes redefined, 3 ignored).
+Scanning input file Bachelorarbeit.nlo...done (0 entries accepted, 0 rejected).
+Nothing written in Bachelorarbeit.nls.
+Transcript written in Bachelorarbeit.ilg.
